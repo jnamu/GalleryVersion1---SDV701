@@ -1,0 +1,15 @@
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\bin\Debug\GalleryVersion1.exe.config
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\bin\Debug\GalleryVersion1.exe
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\bin\Debug\GalleryVersion1.pdb
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.Properties.Resources.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.csproj.GenerateResource.Cache
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.exe
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.pdb
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.frmArtist.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.frmMain.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.frmPainting.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.frmPhotograph.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.frmSculpture.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.frmWork.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.InputBox.resources
+c:\users\rebekah-rossiter\documents\visual studio 2013\Projects\GalleryVersion1\GalleryVersion1\obj\Debug\GalleryVersion1.csprojResolveAssemblyReference.cache

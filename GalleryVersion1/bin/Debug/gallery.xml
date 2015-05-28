@@ -1,0 +1,115 @@
+<SOAP-ENV:Envelope xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:SOAP-ENC="http://schemas.xmlsoap.org/soap/encoding/" xmlns:SOAP-ENV="http://schemas.xmlsoap.org/soap/envelope/" xmlns:clr="http://schemas.microsoft.com/soap/encoding/clr/1.0" SOAP-ENV:encodingStyle="http://schemas.xmlsoap.org/soap/encoding/">
+<SOAP-ENV:Body>
+<a1:clsArtistList id="ref-1" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<SortedList_x002B_keys href="#ref-3"/>
+<SortedList_x002B_values href="#ref-4"/>
+<SortedList_x002B__size>2</SortedList_x002B__size>
+<SortedList_x002B_version>2</SortedList_x002B_version>
+<SortedList_x002B_comparer href="#ref-5"/>
+<SortedList_x002B_keyList href="#ref-6"/>
+<SortedList_x002B_valueList href="#ref-7"/>
+</a1:clsArtistList>
+<SOAP-ENC:Array id="ref-3" SOAP-ENC:arrayType="xsd:anyType[16]">
+<item id="ref-8" xsi:type="SOAP-ENC:string">beka</item>
+<item id="ref-9" xsi:type="SOAP-ENC:string">ui</item>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-4" SOAP-ENC:arrayType="xsd:anyType[16]">
+<item href="#ref-10"/>
+<item href="#ref-11"/>
+</SOAP-ENC:Array>
+<a3:Comparer id="ref-5" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Collections">
+<CompareInfo href="#ref-12"/>
+</a3:Comparer>
+<a3:SortedList_x002B_KeyList id="ref-6" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Collections">
+<sortedList href="#ref-1"/>
+</a3:SortedList_x002B_KeyList>
+<a3:SortedList_x002B_ValueList id="ref-7" xmlns:a3="http://schemas.microsoft.com/clr/ns/System.Collections">
+<sortedList href="#ref-1"/>
+</a3:SortedList_x002B_ValueList>
+<a1:clsArtist id="ref-10" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name id="ref-13">beka</name>
+<speciality id="ref-14">photographer</speciality>
+<phone id="ref-15">5454545c</phone>
+<theTotalValue>8255</theTotalValue>
+<theWorksList href="#ref-16"/>
+<theArtistList href="#ref-1"/>
+<sortOrder>0</sortOrder>
+</a1:clsArtist>
+<a1:clsArtist id="ref-11" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<name href="#ref-9"/>
+<speciality id="ref-17">oih</speciality>
+<phone id="ref-18">5452</phone>
+<theTotalValue>0</theTotalValue>
+<theWorksList href="#ref-19"/>
+<theArtistList href="#ref-1"/>
+<sortOrder>0</sortOrder>
+</a1:clsArtist>
+<a4:CompareInfo id="ref-12" xmlns:a4="http://schemas.microsoft.com/clr/ns/System.Globalization">
+<m_name id="ref-20">en-NZ</m_name>
+<win32LCID>0</win32LCID>
+<culture>5129</culture>
+<m_SortVersion xsi:null="1"/>
+</a4:CompareInfo>
+<a1:clsWorksList id="ref-16" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArrayList_x002B__items href="#ref-21"/>
+<ArrayList_x002B__size>4</ArrayList_x002B__size>
+<ArrayList_x002B__version>26</ArrayList_x002B__version>
+</a1:clsWorksList>
+<a1:clsWorksList id="ref-19" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<ArrayList_x002B__items href="#ref-22"/>
+<ArrayList_x002B__size>0</ArrayList_x002B__size>
+<ArrayList_x002B__version>2</ArrayList_x002B__version>
+</a1:clsWorksList>
+<SOAP-ENC:Array id="ref-21" SOAP-ENC:arrayType="xsd:anyType[4]">
+<item href="#ref-23"/>
+<item href="#ref-24"/>
+<item href="#ref-25"/>
+<item href="#ref-26"/>
+</SOAP-ENC:Array>
+<SOAP-ENC:Array id="ref-22" SOAP-ENC:arrayType="xsd:anyType[0]">
+</SOAP-ENC:Array>
+<a1:clsPainting id="ref-23" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<theWidth>200</theWidth>
+<theHeight>300</theHeight>
+<theType id="ref-27">v</theType>
+<_Name id="ref-28">blah</_Name>
+<theDate>2015-03-04T00:00:00.0000000+13:00</theDate>
+<theValue>500</theValue>
+<clsWork_x002B__Name href="#ref-28"/>
+<clsWork_x002B_theDate>2015-03-04T00:00:00.0000000+13:00</clsWork_x002B_theDate>
+<clsWork_x002B_theValue>500</clsWork_x002B_theValue>
+</a1:clsPainting>
+<a1:clsPhotograph id="ref-24" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<theWidth>35</theWidth>
+<theHeight>65</theHeight>
+<theType id="ref-29">jkd</theType>
+<_Name id="ref-30">e</_Name>
+<theDate>2015-03-07T00:00:00.0000000+13:00</theDate>
+<theValue>645</theValue>
+<clsWork_x002B__Name href="#ref-30"/>
+<clsWork_x002B_theDate>2015-03-07T00:00:00.0000000+13:00</clsWork_x002B_theDate>
+<clsWork_x002B_theValue>645</clsWork_x002B_theValue>
+</a1:clsPhotograph>
+<a1:clsPainting id="ref-25" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<theWidth>8</theWidth>
+<theHeight>99</theHeight>
+<theType id="ref-31">l</theType>
+<_Name id="ref-32">jhk</_Name>
+<theDate>2015-03-03T00:00:00.0000000+13:00</theDate>
+<theValue>6456</theValue>
+<clsWork_x002B__Name href="#ref-32"/>
+<clsWork_x002B_theDate>2015-03-03T00:00:00.0000000+13:00</clsWork_x002B_theDate>
+<clsWork_x002B_theValue>6456</clsWork_x002B_theValue>
+</a1:clsPainting>
+<a1:clsSculpture id="ref-26" xmlns:a1="http://schemas.microsoft.com/clr/nsassem/GalleryVersion1/GalleryVersion1%2C%20Version%3D1.0.0.0%2C%20Culture%3Dneutral%2C%20PublicKeyToken%3Dnull">
+<theWeight>5</theWeight>
+<theMaterial id="ref-33">uiwdi</theMaterial>
+<_Name id="ref-34">jk</_Name>
+<theDate>2015-03-07T00:00:00.0000000+13:00</theDate>
+<theValue>654</theValue>
+<clsWork_x002B__Name href="#ref-34"/>
+<clsWork_x002B_theDate>2015-03-07T00:00:00.0000000+13:00</clsWork_x002B_theDate>
+<clsWork_x002B_theValue>654</clsWork_x002B_theValue>
+</a1:clsSculpture>
+</SOAP-ENV:Body>
+</SOAP-ENV:Envelope>
